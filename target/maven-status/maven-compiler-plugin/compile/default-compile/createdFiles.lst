@@ -1,0 +1,7 @@
+com\it355\petrababic\PetrinController.class
+com\it355\petrababic\mapper\PonudaMapper.class
+com\it355\petrababic\dao\PonudaDaoImpl.class
+com\it355\petrababic\dao\PonudaDao.class
+com\it355\petrababic\serviceImpl\PonudaServiceImpl.class
+com\it355\petrababic\model\Ponuda.class
+com\it355\petrababic\service\PonudaService.class
